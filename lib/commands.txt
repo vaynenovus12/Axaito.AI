@@ -1,0 +1,18 @@
+open chrome
+close chrome
+chrome
+open youtube
+open facebook
+open gmail
+open github
+search
+play thorn in my side
+play pop song
+play superhero song
+play stop and stare
+stop song
+search
+open photoshop
+open illustrator
+close photoshop
+close illustrator
